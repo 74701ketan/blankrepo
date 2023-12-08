@@ -1,2 +1,4 @@
 first line in myfile1.txt
+second line in myfile.txt
+
 
